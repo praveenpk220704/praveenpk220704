@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Praveen Kumar
 
-<!--
-**praveenpk220704/praveenpk220704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer | M.Tech CSE
 
-Here are some ideas to get you started:
+🚀 Passionate about building scalable web applications and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- Java
+- Spring Boot
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- REST APIs
+
+## 🔥 Featured Projects
+
+### AI Academic Report Review Chatbot
+AI-powered chatbot for analyzing academic reports and providing correction suggestions.
+
+### Hotel Management System
+Full-stack web application for managing bookings, rooms, customers, and payments.
+
+### IoT Gas Leak Detection System
+ESP32 and ThingSpeak-based real-time gas monitoring and alert system.
+
+### Laptop Control Voice Assistant
+Python-based voice assistant for automating desktop operations.
+
+## 🎯 Current Goal
+
+Learning Spring Boot, React, System Design, and Full Stack Development.
+
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com/in/praveenpk2207
